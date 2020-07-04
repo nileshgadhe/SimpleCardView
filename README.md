@@ -6,8 +6,8 @@
 [![Platform](https://img.shields.io/cocoapods/p/SimpleCardView.svg?style=flat)](https://cocoapods.org/pods/SimpleCardView)
 
 ---
-## How to use?
-## Simply change your UIView() Class To CardView()
+#### How to use?
+#### Simply change your UIView() Class To CardView()
 ~~~
 var cardView = CardView()
 ~~~
