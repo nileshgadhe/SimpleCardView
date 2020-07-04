@@ -1,0 +1,16 @@
+PODS:
+  - SimpleCardView (0.1.0)
+
+DEPENDENCIES:
+  - SimpleCardView (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleCardView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SimpleCardView: 218c4fb4399665949e90268deb4c4cd4b009a0c7
+
+PODFILE CHECKSUM: 07675b51f58df0e22b926d669ecfbee1c79efdc4
+
+COCOAPODS: 1.9.3

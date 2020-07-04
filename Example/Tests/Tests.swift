@@ -1,5 +1,5 @@
 import XCTest
-import SimpleCardView
+//import SimpleCardView
 
 class Tests: XCTestCase {
     

@@ -7,12 +7,26 @@
 //
 
 import UIKit
+import SimpleCardView
+
 
 class ViewController: UIViewController {
 
+    var cardView = CardView()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view.
+        cardView.backgroundColor = UIColor.white
+        cardView.frame = CGRect(x: 20, y: 20, width: 350, height: 600)
+        cardView.center = self.view.center
+        self.view.addSubview(cardView)
+        
+        
+        //OR
+        //var cardView = UIView()
+        //cardView.setCardView(cornerRedius: 10, borderWidth: 5.0, shadowColor: UIColor.lightGray)
+        
     }
 
     override func didReceiveMemoryWarning() {

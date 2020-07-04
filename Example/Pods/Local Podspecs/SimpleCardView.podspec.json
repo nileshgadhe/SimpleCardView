@@ -1,0 +1,22 @@
+{
+  "name": "SimpleCardView",
+  "version": "0.1.0",
+  "summary": "A short description of SimpleCardView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nilesh/SimpleCardView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nilesh": "nilesh.gadhe@omsoftware.net"
+  },
+  "source": {
+    "git": "https://github.com/Nilesh/SimpleCardView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SimpleCardView/Classes/**/*"
+}
