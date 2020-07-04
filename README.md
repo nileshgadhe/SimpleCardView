@@ -22,6 +22,8 @@ var cardView = CardView()
 ---
 ## Using Storyboard
 
+![Screen Recording 2020-07-04 at 10 38 21 PM](https://user-images.githubusercontent.com/29631918/86517633-19eb5f80-be48-11ea-955c-efcc2175d1bf.gif)
+
 ---
 ## Example
 
