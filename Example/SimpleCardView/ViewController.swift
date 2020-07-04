@@ -3,7 +3,7 @@
 //  SimpleCardView
 //
 //  Created by Nilesh on 07/04/2020.
-//  Copyright (c) 2020 Nilesh. All rights reserved.
+//  Copyright (c) 2020 Nilesh, gadhenilesh449@gmail.com All rights reserved.
 //
 
 import UIKit

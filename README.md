@@ -22,7 +22,7 @@ pod 'SimpleCardView'
 
 ## Author
 
-Nilesh, gadhenilesh449@gmail.com
+Nilesh Gadhe, gadhenilesh449@gmail.com
 
 ## License
 
