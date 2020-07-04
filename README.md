@@ -7,7 +7,7 @@
 
 ---
 #### How to use?
-#### Simply change your UIView() Class To CardView() **OR** Set your UIView class is CardView
+#### Simply change your UIView() Class To CardView() **OR** Set your UIView class as CardView
 ~~~
 import SimpleCardView
 
