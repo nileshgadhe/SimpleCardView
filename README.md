@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/SimpleCardView.svg?style=flat)](https://cocoapods.org/pods/SimpleCardView)
 [![Platform](https://img.shields.io/cocoapods/p/SimpleCardView.svg?style=flat)](https://cocoapods.org/pods/SimpleCardView)
 
+---
+
+![Simulator Screen Shot - iPhone 11 - 2020-07-04 at 18 44 36](https://user-images.githubusercontent.com/29631918/86517198-c88da100-be44-11ea-9781-9e9a83591d61.png)
+
+---
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
