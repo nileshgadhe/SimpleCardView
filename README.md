@@ -9,6 +9,8 @@
 #### How to use?
 #### Simply change your UIView() Class To CardView() **OR** Set your UIView class is CardView
 ~~~
+import SimpleCardView
+
 var cardView = CardView()
 
 //OR
