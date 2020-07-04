@@ -10,7 +10,13 @@
 #### Simply change your UIView() Class To CardView() **OR** Set your UIView class is CardView
 ~~~
 var cardView = CardView()
+
+//OR
+ 
+ var cardView = UIView()
+ cardView.setCardView(cornerRedius: 10, borderWidth: 5.0, shadowColor: UIColor.lightGray)
 ~~~
+
 ![Simulator Screen Shot - iPhone 11 - 2020-07-04 at 18 44 36](https://user-images.githubusercontent.com/29631918/86517198-c88da100-be44-11ea-9781-9e9a83591d61.png)
 
 ---
