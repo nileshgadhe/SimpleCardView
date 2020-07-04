@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 'SimpleCardView is an awesome to make easily card view of UIView'
                        DESC
 
-  s.homepage         = 'https://github.com/nileshgadhe/SimpleCardView.git'
+  s.homepage         = 'https://github.com/nileshgadhe/SimpleCardView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Nilesh' => 'gadhenilesh449@gmail.com' }
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'SimpleCardView/Classes/**/*'
+  s.source_files = 'Source/**/*.swift'
   s.swift_version = '5.0'
   s.platforms = {
       "ios": "12.0"
