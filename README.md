@@ -19,7 +19,7 @@ var cardView = UIView()
 cardView.setCardView(cornerRedius: 10, borderWidth: 5.0, shadowColor: UIColor.lightGray)
 ~~~
 
-![Simulator Screen Shot - iPhone 11 - 2020-07-04 at 18 44 36](https://user-images.githubusercontent.com/29631918/86517198-c88da100-be44-11ea-9781-9e9a83591d61.png)
+![Simulator Screen Shot - iPhone 11 - 2020-07-04 at 23 45 46](https://user-images.githubusercontent.com/29631918/86518682-c3ceea00-be50-11ea-832b-1faeee4b34e2.png)
 
 ---
 ## Using Storyboard
