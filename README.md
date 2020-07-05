@@ -32,7 +32,7 @@ cardView.setCardView(cornerRedius: 10, borderWidth: 5.0, shadowColor: UIColor.li
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-iOS - 12, 
+iOS - 12+, 
 Swift 5.0
 
 ## Installation
