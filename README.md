@@ -8,7 +8,7 @@
 ---
 #### How to use?
 #### Simply change your UIView() Class To CardView() **OR** Set your UIView class as CardView
-~~~
+```ruby
 import SimpleCardView
 
 var cardView = CardView()
@@ -17,7 +17,7 @@ var cardView = CardView()
  
 var cardView = UIView()
 cardView.setCardView(cornerRedius: 10, borderWidth: 5.0, shadowColor: UIColor.lightGray)
-~~~
+```
 
 ![Simulator Screen Shot - iPhone 11 - 2020-07-04 at 23 45 46](https://user-images.githubusercontent.com/29631918/86518682-c3ceea00-be50-11ea-832b-1faeee4b34e2.png)
 
